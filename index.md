@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Manifesto do Amor Abundante
+Estamos à procura de fortalecer as relações de amor através da prática e a tentar ajudar outras pessoas a fazer o mesmo.
+Através deste processo aprendemos a valorizar:
+1. Honestidade e confiança em vez de regras e limites
+2. Atenção e presença em vez de sonhos e fantasias
+3. Comunicação clara em vez de silêncio confortável
+4. Carinho e compreensão em vez de expectativas
+5. Perdoar depressa em vez de ter razão
+6. Desejo em vez de obrigação
+7. Fazer em vez de prometer
+8. Amor e respeito em vez de direito
 
-You can use the [editor on GitHub](https://github.com/abundantlove/manifesto/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abundantlove/manifesto/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Isto significa que embora haja valor nos itens à direita, nós valorizamos mais os itens à esquerda.
