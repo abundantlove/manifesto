@@ -8,14 +8,14 @@ We are uncovering ways to improve intimate relationships by doing it and helping
 
 Through this work we have come to value:
 
-1. **Honesty and trust** instead of rules and limits
-2. **Atention and presence** instead of dreams and fantasies
-3. **Clear communication** instead of comfortable silence
-4. **Affection** instead of expectations
-5. **Forgiving fast** instead of being right
-6. **Desire** instead of obligation
-7. **Act** instead of promise
-8. **Love and respect** instead of entitlement 
+1. **Honesty and trust** over rules and limits
+2. **Atention and presence** over dreams and fantasies
+3. **Clear communication** over comfortable silence
+4. **Affection** over expectations
+5. **Forgiving fast** over being right
+6. **Desire** over obligation
+7. **Act** over promise
+8. **Love and respect** over entitlement 
 
 That is, while there is value in the items on the right, we value the items on the left more.
 
