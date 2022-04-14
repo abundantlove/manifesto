@@ -1,5 +1,6 @@
 ---
 title: Manifesto for Abundant Love
+lang: en
 ---
 
 We are uncovering ways to improve intimate relationships by doing it and helping others do it.
