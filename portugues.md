@@ -1,5 +1,6 @@
-Manifesto do Amor Abundante
-===========================
+---
+title: Manifesto do Amor Abundante
+---
 
 Estamos à procura de fortalecer as relações de amor através da prática e a tentar ajudar outras pessoas a fazer o mesmo.
 
