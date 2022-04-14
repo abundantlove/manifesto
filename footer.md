@@ -1,2 +1,2 @@
 
-[English](/) / [Português](portugues)
+[English](/) / [Português](pt)
