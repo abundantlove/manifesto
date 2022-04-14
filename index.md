@@ -1,5 +1,6 @@
 ---
 title: Manifesto for Abundant Love
+shorttitle: Abundant Love
 lang: en
 ---
 
