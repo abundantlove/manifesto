@@ -17,4 +17,4 @@ Through this work we have come to value:
 That is, while there is value in the items on the right, we value the items on the left more.
 
 
-[English](english.md) / [Português](index.md)
+{% include_relative footer.md %}
