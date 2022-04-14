@@ -1,5 +1,6 @@
 ---
 title: Manifesto do Amor Abundante
+shorttitle: Amor Abundante
 lang: pt
 ---
 
