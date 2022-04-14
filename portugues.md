@@ -15,4 +15,5 @@ Através deste processo aprendemos a valorizar:
 
 Isto significa que embora haja valor nos itens à direita, nós valorizamos mais os itens à esquerda.
 
-[English](english.md) / [Português](index.md)
+
+{% include_relative footer.md %}
