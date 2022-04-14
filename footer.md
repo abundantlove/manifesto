@@ -1,2 +1,2 @@
 
-[English](english.md) / [Português](portugues.md)
+[English](english.html) / [Português](portugues.html)
