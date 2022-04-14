@@ -13,12 +13,13 @@
     {% include head-custom.html %}
   </head>
   <body>  
-    <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>     
-    </header>
-
-    <main id="content" class="main-content" role="main">
-      {{ content }}   
-    </main>
+    <div class="container-lg px-3 my-5 markdown-body">
+      <header class="page-header" role="banner">
+        <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>     
+      </header>
+      <main id="content" class="main-content" role="main">
+        {{ content }}   
+      </main>
+    </div>
   </body>
 </html>
