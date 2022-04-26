@@ -9,7 +9,7 @@ We are uncovering ways to improve intimate relationships by doing it and helping
 Through this work we have come to value:
 
 1. **Honesty and trust** over rules and limits
-2. **Atention and presence** over dreams and fantasies
+2. **Attention and presence** over dreams and fantasies
 3. **Clear communication** over comfortable silence
 4. **Affection** over expectations
 5. **Forgiving fast** over being right
